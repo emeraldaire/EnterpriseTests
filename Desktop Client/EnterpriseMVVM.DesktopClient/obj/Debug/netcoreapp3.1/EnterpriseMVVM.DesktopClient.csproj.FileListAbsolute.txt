@@ -1,0 +1,42 @@
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.exe
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.dev.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.g.resources
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.AssemblyInfo.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.genruntimeconfig.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csproj.CopyComplete
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.exe
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.dev.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.g.resources
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.AssemblyInfo.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.csproj.CopyComplete
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.genruntimeconfig.cache

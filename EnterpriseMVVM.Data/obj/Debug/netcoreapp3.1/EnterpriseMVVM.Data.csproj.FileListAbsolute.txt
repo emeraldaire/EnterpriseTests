@@ -1,0 +1,12 @@
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.AssemblyInfo.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.runtimeconfig.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.runtimeconfig.dev.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.genruntimeconfig.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.Data\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Data.pdb

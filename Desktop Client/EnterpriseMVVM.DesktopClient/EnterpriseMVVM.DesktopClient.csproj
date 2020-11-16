@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\noahb\source\repos\Enterprise-MVVM\Build\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\EnterpriseMVVM.Data\EnterpriseMVVM.Data.csproj" />
+    <ProjectReference Include="..\EnterpriseMVVM.Windows\EnterpriseMVVM.Windows.csproj" />
+  </ItemGroup>
+
+</Project>

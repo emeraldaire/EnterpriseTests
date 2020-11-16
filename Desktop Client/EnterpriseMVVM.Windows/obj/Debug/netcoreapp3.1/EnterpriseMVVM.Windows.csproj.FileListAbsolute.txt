@@ -1,0 +1,18 @@
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.AssemblyInfo.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.Windows.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.Windows.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Build\netcoreapp3.1\EnterpriseMVVM.Windows.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.AssemblyInfo.cs
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.dll
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\netcoreapp3.1\EnterpriseMVVM.Windows.csproj.CoreCompileInputs.cache

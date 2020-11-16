@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnterpriseMVVM.DesktopClient/1.0.0": {
+        "dependencies": {
+          "EnterpriseMVVM.Windows": "1.0.0"
+        },
+        "runtime": {
+          "EnterpriseMVVM.DesktopClient.dll": {}
+        }
+      },
+      "EnterpriseMVVM.Windows/1.0.0": {
+        "runtime": {
+          "EnterpriseMVVM.Windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnterpriseMVVM.DesktopClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnterpriseMVVM.Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
