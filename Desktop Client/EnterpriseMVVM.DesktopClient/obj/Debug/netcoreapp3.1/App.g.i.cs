@@ -46,7 +46,7 @@ namespace EnterpriseMVVM.DesktopClient {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.8.1.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.13.0")]
         public static void Main() {
             EnterpriseMVVM.DesktopClient.App app = new EnterpriseMVVM.DesktopClient.App();
             app.Run();

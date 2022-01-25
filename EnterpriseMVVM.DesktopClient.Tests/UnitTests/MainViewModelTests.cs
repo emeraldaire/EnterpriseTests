@@ -16,6 +16,7 @@ namespace EnterpriseMVVM.DesktopClient.Tests.UnitTests
         public void IsViewModel()
         {
             Assert.IsTrue(typeof(MainViewModel).BaseType == typeof(ViewModel));
+            
         }
 
         //[TestMethod]

@@ -137,3 +137,9 @@ C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Te
 C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.pdb
 C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.Tests.dll
 C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.Tests.pdb
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.DesktopClient.runtimeconfig.dev.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.Tests.deps.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.Tests.runtimeconfig.json
+C:\Users\noahb\source\repos\Enterprise-MVVM\Code\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\netcoreapp3.1\EnterpriseMVVM.Data.Tests.runtimeconfig.dev.json
